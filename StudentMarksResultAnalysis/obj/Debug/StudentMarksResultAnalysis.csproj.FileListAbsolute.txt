@@ -1,0 +1,10 @@
+C:\Users\vaish\source\repos\StudentMarksResultAnalysis\StudentMarksResultAnalysis\bin\Debug\StudentMarksResultAnalysis.exe.config
+C:\Users\vaish\source\repos\StudentMarksResultAnalysis\StudentMarksResultAnalysis\bin\Debug\StudentMarksResultAnalysis.exe
+C:\Users\vaish\source\repos\StudentMarksResultAnalysis\StudentMarksResultAnalysis\bin\Debug\StudentMarksResultAnalysis.pdb
+C:\Users\vaish\source\repos\StudentMarksResultAnalysis\StudentMarksResultAnalysis\obj\Debug\StudentMarksResultAnalysis.csprojAssemblyReference.cache
+C:\Users\vaish\source\repos\StudentMarksResultAnalysis\StudentMarksResultAnalysis\obj\Debug\StudentMarksResultAnalysis.Form1.resources
+C:\Users\vaish\source\repos\StudentMarksResultAnalysis\StudentMarksResultAnalysis\obj\Debug\StudentMarksResultAnalysis.Properties.Resources.resources
+C:\Users\vaish\source\repos\StudentMarksResultAnalysis\StudentMarksResultAnalysis\obj\Debug\StudentMarksResultAnalysis.csproj.GenerateResource.cache
+C:\Users\vaish\source\repos\StudentMarksResultAnalysis\StudentMarksResultAnalysis\obj\Debug\StudentMarksResultAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\vaish\source\repos\StudentMarksResultAnalysis\StudentMarksResultAnalysis\obj\Debug\StudentMarksResultAnalysis.exe
+C:\Users\vaish\source\repos\StudentMarksResultAnalysis\StudentMarksResultAnalysis\obj\Debug\StudentMarksResultAnalysis.pdb
