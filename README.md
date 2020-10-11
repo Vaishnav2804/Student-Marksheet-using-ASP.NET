@@ -1,4 +1,8 @@
 # Student-Marksheet-using-ASP.NET
+
+A window application for students mark result analysis.
+It contains student marks and calculates over all pass percentage, subject wise pass percentage and Grade Points Average(GPA).
+
 Check students mark result analysis..png for the sample screenshot
 
 
